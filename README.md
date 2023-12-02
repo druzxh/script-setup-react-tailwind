@@ -8,7 +8,7 @@ This bash script automates the setup process for a React application using Vite 
 
 Make sure you have the following installed on your system:
 
-- Node.js (Recommended version: 14 or later)
+- Node.js (Recommended version: 16 or higher)
 - npm (Node Package Manager)
 - Bash (Unix shell)
 
